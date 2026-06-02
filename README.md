@@ -8,4 +8,4 @@ Personal portfolio website built using HTML, CSS, JavaScript.
 - Contact form
 
 ## Live Website
-https://dhammdiplokhande1595.github.io/Portfolio_website/
+https://Dhammdip-Lokhande1.github.io/Portfolio_website/
